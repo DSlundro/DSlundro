@@ -13,10 +13,6 @@
     <a href="https://instagram.com/dragansavic_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragansavic_" height="30" width="40" />
     </a>
-<!-- Discord -->
-    <a href="https://discord.gg/DS#3111" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DS#3111" height="30" width="40" />
-    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
