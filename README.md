@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslundro&label=Profile%20views&color=0e75b6&style=flat" alt="dslundro" /> </p>
 
 ## Connect with me
-```
+
 <p align="left">
 <!-- Linkedin -->
     <a href="https://linkedin.com/in/dragan-savic" target="blank">
@@ -15,8 +15,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragansavic_" height="30" width="40" />
     </a>
 </p>
-```
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <p align="left">
 <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
