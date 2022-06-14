@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslundro&label=Profile%20views&color=0e75b6&style=flat" alt="dslundro" /> </p>
 
-## Connect with me
+## Connect with me:
 
 <p align="left">
 <!-- Linkedin -->
